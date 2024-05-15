@@ -31,7 +31,7 @@ const thai = {
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=avd1729&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Dharinesh&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
