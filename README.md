@@ -13,16 +13,19 @@
 
 ```python
 profile = {
-    "pronouns": "",  # Fill with your pronouns, e.g., "she/her"
-    "code": [],  # Fill with the programming languages you use, e.g., ["Python", "JavaScript"]
-    "tools": [],  # Fill with the tools you use, e.g., ["Django", "Flask"]
-    "architecture": [],  # Fill with the architectures you are familiar with, e.g., ["microservices", "event-driven"]
-    "techCommunities": {
-        "coorganizer": "",  # Fill with tech communities you co-organize, e.g., "PyLadies"
-        "speaker": "",  # Fill with events you have spoken at, e.g., "PyCon"
+    "Pronouns": "he/him",
+    "Code": [Python, SQL, R],
+    "Tools": [Power BI, Excel],
+    "Libraries": [Pandas, Tensorflow, Numpy, Scikit-learn, Seaborn, Pytorch],
+    "Frameworks": [Django, Flask],
+    "Dev tools": [VS code, Git],
+    "Interests": [Data Analytics, Machine Learning, DataBases, Generative AI], 
+    "I Grind at": {
+        "LeetCode": "Latest Badge: Leetcode 100",
+        "": "",  # Fill with events you have spoken at, e.g., "PyCon"
         "mentor": ""  # Fill with organizations you mentor for, e.g., "Girls Who Code"
     },
-    "challenge": ""  # Fill with any challenges you are undertaking, e.g., "I am doing the #100DaysOfCode challenge focused on Django and Python"
+    "challenge": "Learning Power BI""
 }
 ```
 
