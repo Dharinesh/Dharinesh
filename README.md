@@ -16,16 +16,16 @@ profile = {
     "Pronouns": "he/him",
     "Code": [Python, SQL, R],
     "Tools": [Power BI, Excel],
-    "Libraries": [Pandas, Tensorflow, Numpy, Scikit-learn, Seaborn, Pytorch],
+    "Libraries": [Pandas, Tensorflow, Numpy, Scikitlearn, Seaborn, Pytorch],
     "Frameworks": [Django, Flask],
-    "Dev tools": [VS code, Git],
+    "Dev tools": [VScode, Git],
     "Interests": [Data Analytics, Machine Learning, DataBases, Generative AI], 
     "I Grind at": {
         "LeetCode": "Latest Badge: Leetcode 100",
         "": "",  # Fill with events you have spoken at, e.g., "PyCon"
         "mentor": ""  # Fill with organizations you mentor for, e.g., "Girls Who Code"
     },
-    "challenge": "Learning Power BI""
+    "challenge": "Learning Power BI for Daily for 100 ""
 }
 ```
 
