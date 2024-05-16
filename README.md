@@ -4,8 +4,7 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW1jMnF2a3o4OGZmZjFicXIwYW56cWN0am45MmxvaDZzbHpvenljbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RpUbhWwuoiCA5q0Gkv/giphy.gif" width="50">
 </em></p>
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
+[![Linkedin: Dharinesh](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/dharinesh/)
 [![GitHub Dharinesh](https://img.shields.io/github/followers/Dharinesh?label=follow&style=social)](https://github.com/Dharinesh)
 
 
