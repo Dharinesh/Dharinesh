@@ -1,4 +1,4 @@
-<h2> Hi, I'm Dharinesh! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXN6eGw5Z2pva2cyanp0dDZreGU1d2ViOGJjOW8wNTM4aTZyY3Z5YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26ufhOydy5WbYG2c0/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Dharinesh! <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif?cid=790b7611rl0140fglx70yp7taohqt7n21e2ksyc3s4nlth00&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Data Science Student at <a href="https://www.cit.edu.in/">Coimbatore Institute of Technology</a>
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
