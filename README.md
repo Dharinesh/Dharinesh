@@ -12,21 +12,21 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```python
-profile = {
-    "Pronouns": "he/him",
-    "Code": [Python, SQL, R],
-    "Tools": [Power BI, Excel],
-    "Libraries": [Pandas, Tensorflow, Numpy, Scikitlearn, Seaborn, Pytorch],
-    "Frameworks": [Django, Flask],
-    "Dev tools": [VScode, Git],
-    "Interests": [Data Analytics, Machine Learning, DataBases, Generative AI], 
-    "I Grind at": {
-        "LeetCode": "Latest Badge: Leetcode 100",
-        "": "",  # Fill with events you have spoken at, e.g., "PyCon"
-        "mentor": ""  # Fill with organizations you mentor for, e.g., "Girls Who Code"
-    },
-    "challenge": "Learning Power BI for Daily for 100 ""
-}
+def my_profile():
+        "name": "DataWhiz",
+        "bio": "Data enthusiast with a passion for gaming and AI",
+        "pronouns": "he/him",
+        "expertise": ["Data Wrangling 🌀", "Predictive Modeling 🎯", "Database Design 🗄️"],
+        "passions": ["Game Development 🎮", "Generative Art 🎨", "Neural Networks 🧠"],
+        "accomplishments": {
+            "Hackathons": "Winner of DataBlast 2023 🏆",
+            "Certifications": "Certified in Advanced Machine Learning Techniques 🌟",
+            "Community": "Organizer of Data Wizards Meetup Group 🧙‍♂️"
+        },
+        "current_quest": "Exploring Reinforcement Learning algorithms 🚀",
+        "fun_fact": "Can solve a Rubik's cube in under 1 minute ⏱️",
+        "favorite_games": ["Minecraft", "Valorant", "The Witcher 3"],
+        "quote": "Data is the brush, and I'm the artist painting the future. 🖌️"
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
