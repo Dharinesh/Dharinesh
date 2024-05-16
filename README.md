@@ -14,8 +14,8 @@
 def my_profile():
         "pronouns": "he/him",
         "skills": ["Python 🐍", "SQL 💾", "R 📊"],
-        "interests": ["Data Analytics", "Machine Learning", "Databases", "End-to-End Project building"],
-        "hobbies": ["Generative AI and tools", "Gaming with the homies", "Cars"],
+        "interests": ["Data Analytics", "Machine Learning", "Databases"],
+        "hobbies": ["Exploring new Generative AI and tools", "Gaming with the homies", "Cars"],
         "the grind stats": {
             "LeetCode": "LeetCode 100",
             "Certifications": "Certified in IBM Data Science Professional 🌟",
