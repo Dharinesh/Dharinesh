@@ -24,7 +24,6 @@ def my_profile():
         },
         "fun_fact": "Therapist of the friend group",
         "favorite_games": ["Minecraft", "Valorant", "Fortnite Creative"],
-        "quote": "Data is the brush, and I'm the artist painting the future. 🖌️"
 ```
 
 <br>
