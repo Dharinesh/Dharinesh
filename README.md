@@ -1,5 +1,4 @@
 <h2> Hi, I'm Dharinesh! <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif?cid=790b7611rl0140fglx70yp7taohqt7n21e2ksyc3s4nlth00&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Data Science Student at <a href="https://www.cit.edu.in/">Coimbatore Institute of Technology</a>
 </em></p>
 
