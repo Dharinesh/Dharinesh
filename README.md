@@ -14,7 +14,7 @@ def my_profile():
         "hobbies": ["Exploring new Generative AI and tools", "Gaming with the homies", "Cars"],
         "the grind stats": {
             "LeetCode": "LeetCode 100",
-            "Certifications": "Certified in IBM Data Science Professional 🌟",
+            "Certifications": "Certified in IBM Data Science Professional 🌟", 
             "current_quest": "100 Days Power BI",
         },
         "fun_fact": "Therapist of the friend group",
