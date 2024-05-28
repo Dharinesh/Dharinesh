@@ -11,8 +11,8 @@ def my_profile():
         "skills": ["Python 🐍", "SQL 💾"],
         "interests": ["Data Analytics", "Machine Learning", "Databases", "LLMs"],
         "hobbies": ["Exploring new Generative AI and tools", "Gaming with the homies", "Cars"],
-        "the grind stats": {
-            "LeetCode": "LeetCode 100",
+        "notable stats": {
+            "LeetCode": "123 Day Streak",
             "Certifications": "Certified in IBM Data Science Professional 🌟", 
             "current_quest": "100 Days Power BI",
         },
