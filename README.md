@@ -19,7 +19,7 @@ def my_profile():
         "fun_fact": "Therapist of the friend group",
         "favorite_games": ["Minecraft", "Valorant", "Fortnite Creative"],
 ```
-
+ 
 <br>
 
 <div align="center">
