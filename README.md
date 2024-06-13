@@ -1,7 +1,7 @@
 <h2> Hi, I'm Dharinesh! </h2>
 <p><em>Data Science Student at <a href="https://www.cit.edu.in/">Coimbatore Institute of Technology</a>
 </em></p>   
- 
+
 [![Linkedin: Dharinesh](https://img.shields.io/badge/-Dharinesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/dharinesh/)
 [![GitHub Dharinesh](https://img.shields.io/github/followers/Dharinesh?label=follow&style=social)](https://github.com/Dharinesh)
  
@@ -12,7 +12,7 @@ def my_profile():
         "interests": ["Data Analytics", "Machine Learning", "Databases", "LLMs"],
         "hobbies": ["Exploring new Generative AI and tools", "Gaming with the homies", "Cars"],
         "notable stats": {
-            "LeetCode": "123 Day Streak",
+            "LeetCode": "139 Day Streak",
             "Certifications": "Certified in IBM Data Science Professional 🌟", 
             "current_quest": "100 Days Power BI",
         },
