@@ -12,9 +12,9 @@ def my_profile():
         "interests": ["Data Analytics", "Machine Learning", "Databases", "LLMs"],
         "hobbies": ["Exploring new Generative AI and tools", "Gaming with the homies", "Cars"],
         "notable stats": {
-            "LeetCode": "143 Day Streak",
+            "LeetCode": "171 Day Streak",
             "Certifications": "Certified in IBM Data Science Professional 🌟", 
-            "current_quest": "Fine tuning LLms, 100 Days Power BI",
+            "current_quest": "Fine tuning LLms",
         },
         "fun_fact": "Therapist of the friend group",
         "favourite_games": ["Minecraft", "Valorant", "Fortnite Creative"],
