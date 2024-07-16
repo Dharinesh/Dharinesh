@@ -4,7 +4,7 @@
 
 [![Linkedin: Dharinesh](https://img.shields.io/badge/-Dharinesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/dharinesh/)
 [![GitHub Dharinesh](https://img.shields.io/github/followers/Dharinesh?label=follow&style=social)](https://github.com/Dharinesh)
-   
+
 ```python
 def my_profile():
         "pronouns": "he/him",
