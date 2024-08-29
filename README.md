@@ -1,4 +1,4 @@
-<h2> Hi, I'm Dharinesh! </h2>
+<h2> Hi, I'm Dharinesh! </h2> 
 <p><em>Data Science Student at <a href="https://www.cit.edu.in/">Coimbatore Institute of Technology</a> 
 </em></p>  
                            
