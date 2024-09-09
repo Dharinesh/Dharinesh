@@ -1,5 +1,5 @@
 <h2> Hi, I'm Dharinesh! </h2> 
-<p><em>Data Science Student at <a href="https://www.cit.edu.in/">Coimbatore Institute of Technology</a>  
+<p><em>Data Science Student at <a href="https://www.cit.edu.in/">Coimbatore Institute of Technology</a>   
 </em></p>          
                             
 [![Linkedin: Dharinesh](https://img.shields.io/badge/-Dharinesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/dharinesh/)
